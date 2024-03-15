@@ -1,6 +1,6 @@
 {
   "name": "rt-calculate-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate your age and dates",
   "scripts": {
     "build": "tsc"
