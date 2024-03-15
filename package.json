@@ -1,0 +1,34 @@
+{
+  "name": "node-calculate-date",
+  "version": "0.0.2",
+  "description": "Calculate your age and dates",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "clc-date",
+    "clc date",
+    "date-calculate",
+    "date calculate",
+    "calculate_date",
+    "calculate date",
+    "calculate_age",
+    "calculate age",
+    "time ago",
+    "date ago"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuyenpthust/calculate_date.git"
+  },
+  "author": "Hamzeh Azizzadeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuyenpthust/calculate_date/issues"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "homepage": "https://github.com/tuyenpthust/calculate_date#readme",
+  "main": "index.js"
+}
